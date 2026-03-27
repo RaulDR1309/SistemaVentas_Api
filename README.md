@@ -36,3 +36,6 @@ El proyecto está organizado para separar la lógica de negocio de la exposició
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/RaulDR1309/SistemaVentas_Api.git](https://github.com/RaulDR1309/SistemaVentas_Api.git)
+
+## Vista Previa
+* ![Vista Previa de Swagger](SistemaVentas.png)
